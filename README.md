@@ -59,7 +59,13 @@ nano /etc/csf/csf.blocklists
 Tambahkan baris ini:
 
 ```
-GITHUBIP|3600|100|https://raw.githubusercontent.com/firdausekabkl/blockIP/main/ip.txt
+GITHUBIP|3600|0|https://raw.githubusercontent.com/firdausekabkl/blockIP/main/ip.txt
+```
+
+Jika ingin aktifkan tipe CIDR :
+
+```
+GITHUBIP|3600|1|https://raw.githubusercontent.com/firdausekabkl/blockIP/main/ip.txt
 ```
 
 Penjelasan:
