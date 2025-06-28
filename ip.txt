@@ -4,3 +4,28 @@
 3.70.77.181     
 64.227.159.167  
 167.71.210.71   
+79.137.67.84
+
+# DigitalOcean (sering abuse scraping/bot)
+138.68.0.0/16
+139.59.112.0/20
+139.59.224.0/20
+157.230.0.0/16
+157.245.0.0/16
+128.199.0.0/16
+
+# Vultr / Choopa abuse
+104.248.0.0/16
+
+# Hetzner abuse scan
+159.69.32.0/20
+144.76.23.192/27
+
+# Fake IP dari kampus/hosting lokal (UGM subnet)
+175.111.88.0/22
+
+# Hosting Bulgaria (scan/spam)
+87.120.125.0/24
+
+# OVH/Scaleway bot
+178.128.208.0/20
