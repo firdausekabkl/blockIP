@@ -133,15 +133,3 @@ ipset list bl_GITHUBIP
 ✅ Ya. Selama CSF aktif dan blocklist diatur, CSF akan **mengupdate daftar IP setiap 1 jam** dari file tersebut.
 
 ---
-
-## Penutup
-
-Dengan cara ini, Anda dapat:
-
-* Mengelola blokir IP dari satu file GitHub
-* Memperbarui daftar blokir tanpa login ke server
-* Menambahkan/menghapus IP secara cepat dari satu tempat
-
-Cukup update `ip.txt`, dan server Anda akan otomatis memperbarui blokir IP-nya. Sangat cocok untuk Anda yang ingin manajemen IP yang **mudah, efisien, dan otomatis**.
-
-Jika ingin dibuatkan script backup atau template GitHub-nya juga, silakan minta.
