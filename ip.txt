@@ -1,0 +1,8 @@
+# Daftar IP jahat – update manual
+# Format: satu IP per baris
+175.111.91.36   # UGM – banyak request mencurigakan
+103.77.107.199  # Hosting lokal – dalam pemantauan
+136.243.220.212 # DataForSEO bot – spam & agresif
+3.70.77.181     # AWS Germany – aktivitas tidak biasa
+64.227.159.167  # DigitalOcean – potensi scanning
+167.71.210.71   # DigitalOcean – scraper/crawler aktif
